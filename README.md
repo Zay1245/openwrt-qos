@@ -1,5 +1,5 @@
 # Easy QoS for OpenWRT/Lede([中文](https://github.com/garypang13/luci-app-eqos/blob/master/README_ZH.md))
-
+# This learn from kiss2u.
 ![](https://img.shields.io/badge/license-GPLV3-brightgreen.svg?style=plastic "License")
 
 ![](https://github.com/lwxlwxlwx/blob/master/eqos.png)
